@@ -1,0 +1,8 @@
+C:\Users\crist\Documents\SharpDevelop Projects\Tapete $$\Tapete $$\bin\Debug\Tapete $$.exe.config
+C:\Users\crist\Documents\SharpDevelop Projects\Tapete $$\Tapete $$\bin\Debug\Tapete $$.exe
+C:\Users\crist\Documents\SharpDevelop Projects\Tapete $$\Tapete $$\bin\Debug\Tapete $$.pdb
+C:\Users\crist\Documents\SharpDevelop Projects\Tapete $$\Tapete $$\obj\Debug\Tapete $$.csprojResolveAssemblyReference.cache
+C:\Users\crist\Documents\SharpDevelop Projects\Tapete $$\Tapete $$\obj\Debug\Tapete___.MainForm.resources
+C:\Users\crist\Documents\SharpDevelop Projects\Tapete $$\Tapete $$\obj\Debug\Tapete $$.csproj.GenerateResource.Cache
+C:\Users\crist\Documents\SharpDevelop Projects\Tapete $$\Tapete $$\obj\Debug\Tapete $$.exe
+C:\Users\crist\Documents\SharpDevelop Projects\Tapete $$\Tapete $$\obj\Debug\Tapete $$.pdb
